@@ -17,14 +17,14 @@ Our project rated neighborhoods based upon how easy they were to get around. Our
 
 ### Contents<br/>
 #### Team32-Gold'nBlue.pptx (Lovre/Kindja/Chen)
-##### PowerPoint presentation shown in class - summary of each metric's methodology, result, and best neighborhood overall<br/>
+ - PowerPoint presentation shown in class - summary of each metric's methodology, result, and best neighborhood overall<br/>
 #### CombinedResults.ipynb (Lovre/Kindja/Chen)
-#### Conclusion/summary of results from each member and decision upon best neighborhood overall<br/>
+ - Conclusion/summary of results from each member and decision upon best neighborhood overall<br/>
 #### ParkingMeters.ipynb (Lovre)
-##### notebook used to determine best neighborhood based upon availability of public on-street parking<br/>
+ - notebook used to determine best neighborhood based upon availability of public on-street parking<br/>
 #### Untitled.ipynb (Chen)
-##### notebook used to determine best neighborhood based upon bus traffic
+ - notebook used to determine best neighborhood based upon bus traffic
 #### <    > (Kindja)
-##### notebook used to determine best neighorhood based upon walkability<br/>
+ - notebook used to determine best neighorhood based upon walkability<br/>
 
 	
