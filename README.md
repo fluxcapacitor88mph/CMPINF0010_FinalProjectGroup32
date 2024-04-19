@@ -15,6 +15,8 @@
 ### A one sentence overview of your repository (meant for someone who is not familiar with the project)<br/>
 Our project rated neighborhoods based upon how easy they were to get around. Our metrics were the number of parking meters (availability of on-street parking), number of bus stops (availability of public transportation), and walkability ratio (safety for pedestrian traffic).
 
+___
+
 ### Contents<br/>
 #### Team32-Gold'nBlue.pptx (Lovre/Kindja/Chen)
  - PowerPoint presentation shown in class - summary of each metric's methodology, result, and best neighborhood overall
