@@ -12,9 +12,8 @@
 	Bus Stops - https://data.wprdc.org/dataset/prt-transit-stop-usage/resource/3f40b94b-4ac4-48f1-8c61-8439d2d2f420
 	Walkability - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio/resource/b90ccee1-c0aa-43b9-93e2-8a25e690c393
 
-### A one sentence overview of your repository (meant for someone who is not familiar with the project)<br/>
+### A one sentence overview of your repository<br/>
 Our project rated neighborhoods based upon how easy they were to get around. Our metrics were the number of parking meters (availability of on-street parking), number of bus stops (availability of public transportation), and walkability ratio (safety for pedestrian traffic).
-
 ___
 
 ### Contents<br/>
