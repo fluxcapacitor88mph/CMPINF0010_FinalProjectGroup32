@@ -25,7 +25,7 @@ ___
  - notebook used to determine best neighborhood based upon availability of public on-street parking
 #### Untitled.ipynb (Chen)
  - notebook used to determine best neighborhood based upon bus traffic
-#### <    >.ipynb (Kindja)
+#### Walkability.ipynb (Kindja)
  - notebook used to determine best neighorhood based upon walkability
 
 	
