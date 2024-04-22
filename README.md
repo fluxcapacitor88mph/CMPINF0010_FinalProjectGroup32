@@ -23,7 +23,7 @@ ___
  - Conclusion/summary of results from each member and decision upon best neighborhood overall
 #### ParkingMeters.ipynb (Lovre)
  - notebook used to determine best neighborhood based upon availability of public on-street parking
-#### Untitled.ipynb (Chen)
+#### bus_stop.ipynb (Chen)
  - notebook used to determine best neighborhood based upon bus traffic
 #### Walkability.ipynb (Kindja)
  - notebook used to determine best neighorhood based upon walkability
